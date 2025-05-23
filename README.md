@@ -1,5 +1,5 @@
 ## Hi there 👋
-Thinking is the best thing I've ever had 
+Thinking is the best thing I've ever had!
 <!--
 **fallenatas/fallenatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
